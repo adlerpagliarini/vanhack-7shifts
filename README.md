@@ -1,4 +1,4 @@
-# vue-firstapp
+# vanhack-7shifts
 
 > A Vue.js project
 
