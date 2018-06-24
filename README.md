@@ -1,6 +1,6 @@
 # vanhack-7shifts
 
-> A Vue.js project - <a href="https://youtu.be/Crh8TXejvzg">Video - https://youtu.be/Crh8TXejvzg</a>
+> A Vue.js project - <a href="https://youtu.be/Crh8TXejvzg" target="_blank">Video https://youtu.be/Crh8TXejvzg</a>
 
 <img src="https://github.com/adlerpagliarini/vanhack-7shifts/blob/master/screen.png" />
 
