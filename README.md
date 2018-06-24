@@ -7,15 +7,14 @@
 ## Build Setup
 
 ``` bash
-# install dependencies
-npm install
-
 # serve with hot reload at localhost:3000
 cd node-api    (run the server)
+npm install
 npm start   OR  nodemon
 
 # serve with hot reload at localhost:8080
 cd ..          (run the client)
+npm install
 npm start   OR  nodemon
 
 # build for production with minification
